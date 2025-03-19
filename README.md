@@ -13,7 +13,3 @@ Este projeto consiste na criação de um Layout Responsivo, desenvolvido com o u
 - **Dart**: Linguagem de programação utilizada no Flutter.
 - **IDX**: Plataforma para desenvolvimento e deploy rápido de projetos Flutter.
 
-## Link de Acesso
-Acesse o layout responsivo diretamente pelo link:
-[App Layout Responsivo](#)
-
